@@ -17,6 +17,19 @@ If you have any questions about the paper, please contact the primary authors: A
 
 In this paper, we present the **GoodNotes Handwriting Kollection (GNHK)** dataset. The GNHK dataset includes unconstrained camera-captured images of English handwritten text sourced from different regions around the world. The dataset is modeled after scene text datasets allowing researchers to investigate new localisation and text recognition techniques. We presented benchmark text localisation and recognition results with well-studied frameworks.
 
+## Citation
+
+If you find this dataset useful in your research, we would appreciate you citing this paper:
+
+```latex
+@inproceedings{Lee2021,
+  author={Lee, Alex W. C. and Chung, Jonathan and Lee, Marco},
+  booktitle={International Conference of Document Analysis and Recognition (ICDAR)},
+  title={GNHK: A Dataset for English Handwriting in the Wild},
+  year={2021},
+}
+```
+
 ## Terms and Conditions
 
 The GNHK dataset is free to download under a [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/).
