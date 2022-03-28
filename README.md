@@ -8,8 +8,6 @@
 ## Contact
 
 - Alex W. C. Lee [^1], Jonathan Chung [^2] and Marco Lee [^1]
-    - [^1]: GoodNotes, Hong Kong - {alex, marco} [at] goodnotes (dot) com
-    - [^2]: Amazon Web Services, Vancouver - jonchung [at] amazon (dot) com
 
 If you have any questions about the paper, please contact the primary authors: Alex Lee and Jonathan Chung.
 
@@ -37,3 +35,6 @@ The GNHK dataset is free to download under a [CC-BY-4.0 License](https://creativ
 The dataset is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors and the legal entities they represent be liable for any claim, damages or other liability whatsoever, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the dataset or the use or other dealings in the dataset.
 
 If any of the documents contain your information and you do not want them in this dataset, please contact the authors of the paper and we will remove the data expeditiously.
+
+[^1]: GoodNotes, Hong Kong - {alex, marco} [at] goodnotes (dot) com
+[^2]: Amazon Web Services, Vancouver - jonchung [at] amazon (dot) com
